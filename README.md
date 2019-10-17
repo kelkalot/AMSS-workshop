@@ -7,17 +7,26 @@ The presented workshop is meant as a forum for the discussion of the impact of d
 Topics of interest include (but are not limited to):
 
 ·       Novel approaches for medical and sport sensor data classification, event detection, segmentation, and abnormality detection using DL;
-·       DL for injury analysis;
-·       DL for image medical data analysis;
-·       Content-Based Sensor Data Retrieval (CSDR) using DL;
-·       Medical and Sport Sensor data understanding using DL;
-·       Medical and Sport Sensor data visualisation;
-·       Sensor data generation and preprocessing methods using unsupervised DL like GANs,  autoencoders, etc.;
-·       Multimodal analysis and fusion using DL;
-·       Applications of DL in different fields and disciplines.
-·       Combination  of Sports and health data.
-·       Human behavior modelling using DL;
 
+·       DL for injury analysis;
+
+·       DL for image medical data analysis;
+
+·       Content-Based Sensor Data Retrieval (CSDR) using DL;
+
+·       Medical and Sport Sensor data understanding using DL;
+
+·       Medical and Sport Sensor data visualisation;
+
+·       Sensor data generation and preprocessing methods using unsupervised DL like GANs,  autoencoders, etc.;
+
+·       Multimodal analysis and fusion using DL;
+
+·       Applications of DL in different fields and disciplines.
+
+·       Combination  of Sports and health data.
+
+·       Human behavior modelling using DL;
 
 Authors are invited to submit their original contributions before the deadline following the conference submission guidelines. Each contribution must be prepared following the ACM two-column format, and should not exceed the length of 6 (six) Letter-sized pages. For detailed instructions, please visit the conference homepage. (URL to be added)
  
