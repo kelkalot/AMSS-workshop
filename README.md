@@ -38,9 +38,13 @@ Important dates: Tba.
 Chairs:
 
 Michael Riegler, SimulaMet & Krisitiania, Norway         	[michael@simula.no]
+
 Pål Halvorsen, SimulaMet, Norway 					[paalh@simula.no]
+
 Steven Hicks, SimulaMet, Norway		|			[steven@simula.no]
+
 Enrique Garcia Ceja, SINTEF, Norway		        [enrique.garcia-ceja@sintef.no]
+
 Tor-Morten Grønli, Kristiania
 
 
