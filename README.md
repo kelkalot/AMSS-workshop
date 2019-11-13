@@ -45,6 +45,6 @@ Steven Hicks, SimulaMet, Norway		|			[steven@simula.no]
 
 Enrique Garcia Ceja, SINTEF, Norway		        [enrique.garcia-ceja@sintef.no]
 
-Tor-Morten Grønli, Kristiania
+Tor-Morten Grønli, Kristiania [Tor-Morten.Gronli@kristiania.no]
 
 
