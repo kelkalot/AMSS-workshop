@@ -1,4 +1,4 @@
-# Analysis of Medical and Sports Sensor Data Using Deep Learning - AMSS
+# Analysis of Medical and Sports Sensor Data Using Deep Learning - AMSS @ICMR 2020
 
 The development of intelligent medical and sports data analysis systems has experienced a significant boost in recent years thanks to the emergence of a machine learning paradigm known as deep learning (DL). DL algorithms have enabled the development of highly accurate systems (with performance comparable to that of human experts, in some cases) and have become a standard choice for analyzing medical and sport data, especially images and videos. Dozens of commercial applications using deep learning to analyze, classify, segment and measure data from different modalities of sensors are currently available. Deep learning methods applied on medical and sports data are contributing to understand the evolution of chronic diseases, predicting the risk of developing those diseases, and understanding the performance of athletes and their risk of overuse injuries. Researchers in industry, hospitals, sports institutes and academia have published hundreds of scientific contributions in this area during the last year alone.
  
@@ -31,7 +31,10 @@ Topics of interest include (but are not limited to):
 Authors are invited to submit their original contributions before the deadline following the conference submission guidelines. Each contribution must be prepared following the ACM two-column format, and should not exceed the length of 6 (six) Letter-sized pages. For detailed instructions, please visit the conference homepage. (URL to be added)
  
 Paper submission guidelines
-Please follow the description at the conference web page. 
+Please submit your paper via: https://easychair.org/conferences/?conf=amss2020
+Formatting guidelines for the paper can be found at the ICMR webpage: http://icmr2020.org/authors.html#submit
+
+Submission deadline: 12th of March, 2020
  
 Chairs:
 
@@ -42,7 +45,5 @@ Pål Halvorsen, SimulaMet, Norway 					[paalh@simula.no]
 Steven Hicks, SimulaMet, Norway		|			[steven@simula.no]
 
 Enrique Garcia Ceja, SINTEF, Norway		        [enrique.garcia-ceja@sintef.no]
-
-Tor-Morten Grønli, Kristiania [Tor-Morten.Gronli@kristiania.no]
 
 
