@@ -31,9 +31,7 @@ Topics of interest include (but are not limited to):
 Authors are invited to submit their original contributions before the deadline following the conference submission guidelines. Each contribution must be prepared following the ACM two-column format, and should not exceed the length of 6 (six) Letter-sized pages. For detailed instructions, please visit the conference homepage. (URL to be added)
  
 Paper submission guidelines
-Please follow the description at the conference web page. (URL to be added)
- 
-Important dates: Tba.
+Please follow the description at the conference web page. 
  
 Chairs:
 
